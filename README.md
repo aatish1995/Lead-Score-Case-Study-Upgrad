@@ -16,7 +16,8 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 
 If they successfully identify this set of leads, the lead conversion rate should go up as the sales team will now be focusing more on communicating with the potential leads rather than making calls to everyone.  A typical lead conversion process can be represented using the following funnel:
 
-![image.png](attachment:1fc67354-78b2-443a-8eb9-fc10e716567b.png)
+![image](https://github.com/user-attachments/assets/9107612b-668d-4710-8ecd-9d9eef37f870)
+
 
 As you can see, there are a lot of leads generated in the initial stage (top) but only a few of them come out as paying customers from the bottom. In the middle stage, you need to nurture the potential leads well (i.e. educating the leads about the product, constantly communicating etc. ) in order to get a higher lead conversion.
 
